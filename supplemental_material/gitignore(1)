@@ -1,0 +1,12 @@
+*.aux
+*.log
+*.pdf
+*.4tc
+*.4ct
+*.css
+*.dvi
+*.idv
+*.lg
+*.out
+*.tmp
+*.xref
